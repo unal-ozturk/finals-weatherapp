@@ -1,3 +1,3 @@
 import WeatherDetails from "./WeatherDetails";
 
-export default WeatherDetails;
+export default WeatherDetails
